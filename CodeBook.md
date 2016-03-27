@@ -3,7 +3,8 @@ This codebook summarizes the data in *tidy_df.txt*
 ##Identifiers 
 - subjectID - the test subject id
 - activityName - the activity that was being performed by the subject when the measurement was taken
-##Measurements 
+
+## Measurements 
 - “tBodyAcc-mean()-X" 
 - “tBodyAcc-mean()-Y" 
 - "tBodyAcc-mean()-Z" 
@@ -83,6 +84,7 @@ This codebook summarizes the data in *tidy_df.txt*
 - "fBodyBodyGyroJerkMag-mean()" 
 - "fBodyBodyGyroJerkMag-std()" 
 - "fBodyBodyGyroJerkMag-meanFreq()"
+
 ##Activity Labels
 1. WALKING: subject was walking during the test
 2. WALKING_UPSTAIRS: subject was walking up a staircase during the test
